@@ -2,7 +2,7 @@
 
 This is illusion study on DNNs using Ske's Oblique Grating illusion.
 
-The human subject you can download from（https://osf.io/jznrt/）
+The human subject you can download from（https://osf.io/jznrt/ ）
 
 # Citation
 ```@article{10.1371/journal.pone.0299083,
